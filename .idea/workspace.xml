@@ -45,19 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +73,7 @@
       <workItem from="1695928200167" duration="40000" />
       <workItem from="1695963347821" duration="7696000" />
       <workItem from="1695971125873" duration="457000" />
-      <workItem from="1695972665540" duration="316000" />
+      <workItem from="1695972665540" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commitAdd Choice class for contact management&#10;&#10;              This commit introduces the `Choice` class, which provides functionality for managing contacts. It includes options to add a new contact, edit an existing contact, and delete a contact. Each option is clearly documented within the code.&#10;&#10;              Improvements made in this commit:&#10;              - Improved code formatting and alignment for better readability.&#10;              - Added descriptive comments to explain the purpose of each code section.&#10;              - Implemented a mechanism to avoid modifying the list while iterating through it during contact deletion.&#10;&#10;              This is the initial version of the `Choice` class, laying the foundation for contact management in our application.">
       <option name="closed" value="true" />
