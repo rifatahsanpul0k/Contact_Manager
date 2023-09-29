@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d2c4ff8-0b90-4cb2-87d7-4ea95f47aabe" name="Changes" comment="Initial commitAdd Choice class for contact management&#10;&#10;              This commit introduces the `Choice` class, which provides functionality for managing contacts. It includes options to add a new contact, edit an existing contact, and delete a contact. Each option is clearly documented within the code.&#10;&#10;              Improvements made in this commit:&#10;              - Improved code formatting and alignment for better readability.&#10;              - Added descriptive comments to explain the purpose of each code section.&#10;              - Implemented a mechanism to avoid modifying the list while iterating through it during contact deletion.&#10;&#10;              This is the initial version of the `Choice` class, laying the foundation for contact management in our application." />
+    <list default="true" id="7d2c4ff8-0b90-4cb2-87d7-4ea95f47aabe" name="Changes" comment="Initial commitAdd Choice class for contact management&#10;&#10;              This commit introduces the `Choice` class, which provides functionality for managing contacts. It includes options to add a new contact, edit an existing contact, and delete a contact. Each option is clearly documented within the code.&#10;&#10;              Improvements made in this commit:&#10;              - Improved code formatting and alignment for better readability.&#10;              - Added descriptive comments to explain the purpose of each code section.&#10;              - Implemented a mechanism to avoid modifying the list while iterating through it during contact deletion.&#10;&#10;              This is the initial version of the `Choice` class, laying the foundation for contact management in our application.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rifatahsanpul00k&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7c637353-f92c-4727-920c-1394c3d0f244" />
+        <option name="url" value="https://github.com/rifatahsanpul00k/Contact_Manager.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -54,7 +70,9 @@
       <workItem from="1695918808938" duration="751000" />
       <workItem from="1695925682262" duration="1107000" />
       <workItem from="1695928200167" duration="40000" />
-      <workItem from="1695963347821" duration="6890000" />
+      <workItem from="1695963347821" duration="7696000" />
+      <workItem from="1695971125873" duration="457000" />
+      <workItem from="1695972665540" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commitAdd Choice class for contact management&#10;&#10;              This commit introduces the `Choice` class, which provides functionality for managing contacts. It includes options to add a new contact, edit an existing contact, and delete a contact. Each option is clearly documented within the code.&#10;&#10;              Improvements made in this commit:&#10;              - Improved code formatting and alignment for better readability.&#10;              - Added descriptive comments to explain the purpose of each code section.&#10;              - Implemented a mechanism to avoid modifying the list while iterating through it during contact deletion.&#10;&#10;              This is the initial version of the `Choice` class, laying the foundation for contact management in our application.">
       <option name="closed" value="true" />
@@ -80,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695970241346</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commitAdd Choice class for contact management&#10;&#10;              This commit introduces the `Choice` class, which provides functionality for managing contacts. It includes options to add a new contact, edit an existing contact, and delete a contact. Each option is clearly documented within the code.&#10;&#10;              Improvements made in this commit:&#10;              - Improved code formatting and alignment for better readability.&#10;              - Added descriptive comments to explain the purpose of each code section.&#10;              - Implemented a mechanism to avoid modifying the list while iterating through it during contact deletion.&#10;&#10;              This is the initial version of the `Choice` class, laying the foundation for contact management in our application.">
+      <option name="closed" value="true" />
+      <created>1695970309293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695970309293</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
